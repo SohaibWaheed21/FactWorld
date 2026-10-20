@@ -24,3 +24,49 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.globe-cursor,
+.globe-cursor canvas,
+.globe-cursor div,
+.globe-ufo-cursor,
+.globe-ufo-cursor canvas,
+.globe-ufo-cursor div {
+  cursor: url('/FactWorld/globe-cursor.png') 16 16, url('/FactWorld/globe-cursor.svg') 16 16, url('/globe-cursor.png') 16 16, url('/globe-cursor.svg') 16 16, crosshair !important;
+}
+
+.globe-cursor-active,
+.globe-cursor-active canvas,
+.globe-cursor-active div,
+.globe-ufo-cursor-active,
+.globe-ufo-cursor-active canvas,
+.globe-ufo-cursor-active div {
+  cursor: url('/FactWorld/globe-cursor-active.png') 16 16, url('/FactWorld/globe-cursor-active.svg') 16 16, url('/globe-cursor-active.png') 16 16, url('/globe-cursor-active.svg') 16 16, pointer !important;
+}
+
+/* Pixel Art Avatar Spritesheet and Jump Keyframes */
+@keyframes sprite {
+  from {
+    background-position-x: 0px;
+  }
+  to {
+    background-position-x: var(--end);
+  }
+}
+
+/* Cherry Blossom Petals Animation */
+@keyframes petal-fall {
+  0% {
+    transform: translate(0px, 0px) rotate(0deg);
+    opacity: 0;
+  }
+  12% {
+    opacity: 0.85;
+  }
+  85% {
+    opacity: 0.8;
+  }
+  100% {
+    transform: translate(var(--drift-x, 38px), 250px) rotate(var(--rot, 360deg));
+    opacity: 0;
+  }
+}

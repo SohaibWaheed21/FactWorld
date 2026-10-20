@@ -1,41 +1,51 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
-# dependencies
+# Dependencies
 /node_modules
 /.pnp
 .pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/versions
 
-# testing
-/coverage
-
-# next.js
+# Next.js build & export outputs
 /.next/
 /out/
-
-# production
 /build
 
-# misc
+# Misc & OS
 .DS_Store
+Thumbs.db
 *.pem
 
-# debug
+# Debug logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
+# Environment files
 .env*
+!.env.example
 
-# vercel
+# Vercel
 .vercel
 
-# typescript
+# TypeScript
 *.tsbuildinfo
 next-env.d.ts
+
+# Scratch, capture & video artifacts
+test-*.png
+brag-output/
+.tmp_captures/
+captures/
+brag-repo/
+brag-skills/
+brag-extracted/
+*.zip
+*.mp4
+scripts/test-*.js
+scripts/record-*.js
+scripts/build-launch-video.js
+scripts/reconstruct*.py
+scripts/apply-restore.py
+scripts/check-edits.py
+scripts/find-*.py
+scripts/*.txt
+scripts/reconstructed_base.tsx

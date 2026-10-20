@@ -1,0 +1,1858 @@
+{
+  "AFG": {
+    "animal": {
+      "name": "Snow leopard",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Irbis4.JPG/330px-Irbis4.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Golden eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg/330px-015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "kabuli palaw",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Afghan_Palo.jpg/330px-Afghan_Palo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "ALB": {
+    "bird": {
+      "name": "Golden eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg/330px-015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "tavë kosi",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Tav%C3%AB_kosi.jpg/330px-Tav%C3%AB_kosi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "DZA": {
+    "dish": {
+      "name": "couscous",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Moroccan_cuscus%2C_from_Casablanca%2C_September_2018.jpg/330px-Moroccan_cuscus%2C_from_Casablanca%2C_September_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "ASM": {
+    "dish": {
+      "name": "palusami",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Luaulau.png/330px-Luaulau.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "AND": {
+    "dish": {
+      "name": "escudella i carn d'olla",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Escudella_Catalana_-_Barcelona_%282011%29.JPG/330px-Escudella_Catalana_-_Barcelona_%282011%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "AGO": {
+    "animal": {
+      "name": "Red-crested turaco",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/RedcrestedTuraco.jpg/330px-RedcrestedTuraco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Red-crested turaco",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/RedcrestedTuraco.jpg/330px-RedcrestedTuraco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "moamba de galinha",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Poulet_%C3%A0_la_moambe.JPG/330px-Poulet_%C3%A0_la_moambe.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "AIA": {
+    "bird": {
+      "name": "Zenaida dove",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Zenaida_Dove%2C_St._Thomas.jpg/330px-Zenaida_Dove%2C_St._Thomas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "ATG": {
+    "animal": {
+      "name": "European fallow deer",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Fallow_deer_in_field.jpg/330px-Fallow_deer_in_field.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Magnificent frigatebird",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Fregata_magnificens_-Galapagos%2C_Ecuador_-male-8_%281%29.jpg/330px-Fregata_magnificens_-Galapagos%2C_Ecuador_-male-8_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "fungee",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/COO_COOO.jpg/330px-COO_COOO.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "ARG": {
+    "animal": {
+      "name": "Rufous hornero",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Rufous_hornero_%28Furnarius_rufus%29_Colonia_%28cropped%29.jpg/330px-Rufous_hornero_%28Furnarius_rufus%29_Colonia_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Rufous hornero",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Rufous_hornero_%28Furnarius_rufus%29_Colonia_%28cropped%29.jpg/330px-Rufous_hornero_%28Furnarius_rufus%29_Colonia_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Asado",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Asado_2005.jpg/330px-Asado_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "ARM": {
+    "animal": {
+      "name": "Golden eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg/330px-015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "khorovats",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Barbecue_Armenian.jpg/330px-Barbecue_Armenian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "ABW": {
+    "dish": {
+      "name": "Keshi yena",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Keshi_yena.png/330px-Keshi_yena.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "AUS": {
+    "animal": {
+      "name": "Red kangaroo",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Red_kangaroo_-_melbourne_zoo.jpg/330px-Red_kangaroo_-_melbourne_zoo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Emu",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Emu_1_-_Tidbinbilla.jpg/330px-Emu_1_-_Tidbinbilla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "roast lamb",
+      "image": "/roastlamb.jpeg"
+    }
+  },
+  "AUT": {
+    "animal": {
+      "name": "Austrian Bundesadler",
+      "image": null
+    },
+    "bird": {
+      "name": "Eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Eagles_together.jpg/330px-Eagles_together.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Wiener schnitzel",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiener-Schnitzel02.jpg/330px-Wiener-Schnitzel02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "AZE": {
+    "dish": {
+      "name": "dolma",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Speca_te_mbushura_me_mish.JPG/330px-Speca_te_mbushura_me_mish.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "BHS": {
+    "animal": {
+      "name": "Blue marlin",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Atlantic_blue_marlin.jpg/330px-Atlantic_blue_marlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "American flamingo",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/American_Flamingo_JG.jpg/330px-American_Flamingo_JG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "crack conch",
+      "image": null
+    }
+  },
+  "BHR": {
+    "bird": {
+      "name": "White-eared bulbul",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Pycnonotus_leucotis_1.jpg/330px-Pycnonotus_leucotis_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "kabsa",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Machboos_%28cropped%29.JPG/330px-Machboos_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "BGD": {
+    "animal": {
+      "name": "Bengal tiger",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg/330px-Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Oriental magpie-robin",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Oriental_magpie-robin_%28Copsychus_saularis_ceylonensis%29_male.jpg/330px-Oriental_magpie-robin_%28Copsychus_saularis_ceylonensis%29_male.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Hilsa fish curry",
+      "image": null
+    }
+  },
+  "BRB": {
+    "dish": {
+      "name": "cou-cou",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/COO_COOO.jpg/330px-COO_COOO.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "BLR": {
+    "animal": {
+      "name": "European bison",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/European_bison_%28Bison_bonasus%29_male_Bia%C5%82owieza.jpg/330px-European_bison_%28Bison_bonasus%29_male_Bia%C5%82owieza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "White stork",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/White_stork_%28Ciconia_ciconia%29_Bia%C5%82owieza.jpg/330px-White_stork_%28Ciconia_ciconia%29_Bia%C5%82owieza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "draniki",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Latkas.jpg/330px-Latkas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "BEL": {
+    "animal": {
+      "name": "Leo Belgicus",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Leo_Belgicus_%28Dutch-Belgic_Lion_of_the_Low_Countries%29_Famiano_Strada_c1647.jpg/330px-Leo_Belgicus_%28Dutch-Belgic_Lion_of_the_Low_Countries%29_Famiano_Strada_c1647.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Common kestrel",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Common_kestrel_falco_tinnunculus.jpg/330px-Common_kestrel_falco_tinnunculus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "frites",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/French_Fries.JPG/330px-French_Fries.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "BLZ": {
+    "animal": {
+      "name": "Baird's tapir",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Baird%27s_tapir_mother_with_baby_%2892151%29.jpg/330px-Baird%27s_tapir_mother_with_baby_%2892151%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Keel-billed toucan",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Keel-billed_toucan_%28Ramphastos_sulfuratus_sulfuratus%29_on_foxtail_palm_%28Wodyetia_bifurcata%29_Cayo.jpg/330px-Keel-billed_toucan_%28Ramphastos_sulfuratus_sulfuratus%29_on_foxtail_palm_%28Wodyetia_bifurcata%29_Cayo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "rice and beans",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Rice_and_beans%2C_Hotel_in_Itatiaia.jpeg/330px-Rice_and_beans%2C_Hotel_in_Itatiaia.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "BEN": {
+    "dish": {
+      "name": "kuli-kuli",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Kulikuli.jpg/330px-Kulikuli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "BMU": {
+    "bird": {
+      "name": "Bermuda petrel",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Bermuda_Petrel_From_The_Crossley_ID_Guide_Eastern_Birds%2C_crop.jpg/330px-Bermuda_Petrel_From_The_Crossley_ID_Guide_Eastern_Birds%2C_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "BTN": {
+    "animal": {
+      "name": "Druk",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/330px-Flag_of_Bhutan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Common raven",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Corvus_corax_clarionensis%2C_Point_Reyes_National_Seashore.jpg/330px-Corvus_corax_clarionensis%2C_Point_Reyes_National_Seashore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "ema datshi",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Ema_datshi%28Dry_red_chilli_version%29.jpg/330px-Ema_datshi%28Dry_red_chilli_version%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "BIH": {
+    "dish": {
+      "name": "Bosnian pot",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Bosanskilonac.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    }
+  },
+  "BWA": {
+    "animal": {
+      "name": "Plains zebra",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Equus_quagga_burchellii_-_Etosha%2C_2014.jpg/330px-Equus_quagga_burchellii_-_Etosha%2C_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Kori bustard",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Kori_bustard_%28Ardeotis_kori_kori%29_male.jpg/330px-Kori_bustard_%28Ardeotis_kori_kori%29_male.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "seswaa",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Seswaa.jpg/330px-Seswaa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "BRA": {
+    "animal": {
+      "name": "Jaguar",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Standing_jaguar.jpg/330px-Standing_jaguar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Rufous-bellied thrush",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Turdus-rufiventris.jpg/330px-Turdus-rufiventris.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Feijoada",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Feijoada_%C3%A0_transmontada.jpg/330px-Feijoada_%C3%A0_transmontada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "BGR": {
+    "animal": {
+      "name": "Lion",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/330px-020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Shopska salad",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Chopska.jpg/330px-Chopska.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "BFA": {
+    "dish": {
+      "name": "riz gras",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Plat_de_riz_au_gras_plus_viande.jpg/330px-Plat_de_riz_au_gras_plus_viande.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "BDI": {
+    "dish": {
+      "name": "boko boko",
+      "image": null
+    }
+  },
+  "KHM": {
+    "bird": {
+      "name": "Giant ibis",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/ThaumantibisGiganteaGronvold.jpg/330px-ThaumantibisGiganteaGronvold.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "fish amok",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Fish_Amok_with_Rice.jpg/330px-Fish_Amok_with_Rice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "CMR": {
+    "dish": {
+      "name": "ndolé",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Ndol%C3%A8_%C3%A0_la_viande%2C_morue_et_crevettes.jpg/330px-Ndol%C3%A8_%C3%A0_la_viande%2C_morue_et_crevettes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "CAN": {
+    "animal": {
+      "name": "North American beaver",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/330px-American_Beaver.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Canada jay",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Perisoreus_canadensis_mercier2.jpg/330px-Perisoreus_canadensis_mercier2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "poutine",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Food_at_WIkimanian_2017_02.jpg/330px-Food_at_WIkimanian_2017_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "CYM": {
+    "bird": {
+      "name": "Grand Cayman parrot",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Amazona_leucocephala_-in_tree-4cp.jpg/330px-Amazona_leucocephala_-in_tree-4cp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "CAF": {
+    "dish": {
+      "name": "cassava",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Manihot_esculenta_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-090.jpg/330px-Manihot_esculenta_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-090.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "TCD": {
+    "dish": {
+      "name": "boule",
+      "image": null
+    }
+  },
+  "CHL": {
+    "animal": {
+      "name": "South Andean deer",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Reserva_Cerro_Castillo.JPG/330px-Reserva_Cerro_Castillo.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Andean condor",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/AndeanCondorMale.jpg/330px-AndeanCondorMale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "empanada",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Tapa_de_empanadillitas.JPG/330px-Tapa_de_empanadillitas.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "CHN": {
+    "animal": {
+      "name": "Chinese dragon",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Azure_Dragon.jpg/330px-Azure_Dragon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Red-crowned crane",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Grus_japonensis_-Hokkaido%2C_Japan_-several-8_%281%29.jpg/330px-Grus_japonensis_-Hokkaido%2C_Japan_-several-8_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Peking duck",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Peking_Duck%2C_2014_%2802%29.jpg/330px-Peking_Duck%2C_2014_%2802%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "COL": {
+    "animal": {
+      "name": "Andean condor",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/AndeanCondorMale.jpg/330px-AndeanCondorMale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Andean condor",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/AndeanCondorMale.jpg/330px-AndeanCondorMale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "ajiaco",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Ajiaco.jpg/330px-Ajiaco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "COM": {
+    "dish": {
+      "name": "vanilla",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Vanilla_planifolia_%286998639597%29.jpg/330px-Vanilla_planifolia_%286998639597%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "COD": {
+    "animal": {
+      "name": "Okapi",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Saint-Aignan_%28Loir-et-Cher%29._Okapi.jpg/330px-Saint-Aignan_%28Loir-et-Cher%29._Okapi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "CRI": {
+    "bird": {
+      "name": "Clay-colored thrush",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Clay-coloured_thrush_%28Turdus_grayi_casius%29_2.jpg/330px-Clay-coloured_thrush_%28Turdus_grayi_casius%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "casado",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Casado_Tico.jpg/330px-Casado_Tico.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "HRV": {
+    "bird": {
+      "name": "Common nightingale",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Luscinia_megarhynchos_-_Common_nightingale_-_Nachtegaal_%28cropped%29.jpg/330px-Luscinia_megarhynchos_-_Common_nightingale_-_Nachtegaal_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "zagorski štrukli",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/%C5%A0trukli_iz_Okrugljaka.jpg/330px-%C5%A0trukli_iz_Okrugljaka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "CUB": {
+    "animal": {
+      "name": "Cuban trogon",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Cuban_trogon_%28Priotelus_temnurus%29.JPG/330px-Cuban_trogon_%28Priotelus_temnurus%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Cuban trogon",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Cuban_trogon_%28Priotelus_temnurus%29.JPG/330px-Cuban_trogon_%28Priotelus_temnurus%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "ropa vieja",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/RealRopaVieja.jpg/330px-RealRopaVieja.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "CYP": {
+    "animal": {
+      "name": "Cypriot mouflon",
+      "image": null
+    },
+    "dish": {
+      "name": "souvla",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Souvla.jpg/330px-Souvla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "CZE": {
+    "animal": {
+      "name": "Double-tailed lion",
+      "image": null
+    },
+    "bird": {
+      "name": "Common kingfisher",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Alcedo_atthis_-England-8_%28cropped%29.jpg/330px-Alcedo_atthis_-England-8_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "vepřo knedlo zelo",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Knedlo_vepro_zelo_czech_food.jpg/330px-Knedlo_vepro_zelo_czech_food.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "DNK": {
+    "bird": {
+      "name": "Mute swan",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/CygneVaires.jpg/330px-CygneVaires.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "stegt flæsk",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Stegt_fl%C3%A6sk.jpg/330px-Stegt_fl%C3%A6sk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "DJI": {
+    "dish": {
+      "name": "skoudehkaris",
+      "image": null
+    }
+  },
+  "DMA": {
+    "animal": {
+      "name": "Sisserou parrot",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Amazona_imperialis_-Roseau_-Dominica_-aviary-6a-3c.jpg/330px-Amazona_imperialis_-Roseau_-Dominica_-aviary-6a-3c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "mountain chicken",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Leptodactylus_fallax_%281%29.jpg/330px-Leptodactylus_fallax_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "DOM": {
+    "bird": {
+      "name": "Palmchat",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Cigua-palmera-ave-nacional-dominicana.jpg/330px-Cigua-palmera-ave-nacional-dominicana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "The New York Times",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/b7/The_New_York_Times%2C_January_13%2C_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    }
+  },
+  "ECU": {
+    "bird": {
+      "name": "Andean condor",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/AndeanCondorMale.jpg/330px-AndeanCondorMale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "encebollado",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Semifinal_del_Campeonato_del_Encebollado_en_Esmeraldas_2015_%2818062294436%29.jpg/330px-Semifinal_del_Campeonato_del_Encebollado_en_Esmeraldas_2015_%2818062294436%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "EGY": {
+    "animal": {
+      "name": "Steppe eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Steppe_Eagle_Portrait.jpg/330px-Steppe_Eagle_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Steppe eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Steppe_Eagle_Portrait.jpg/330px-Steppe_Eagle_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Koshary",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Egyptian_food_Koshary.jpg/330px-Egyptian_food_Koshary.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "SLV": {
+    "animal": {
+      "name": "Turquoise-browed motmot",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Turquoise-browed_motmot_%28Eumomota_superciliosa_apiaster%29_Copan_2.jpg/330px-Turquoise-browed_motmot_%28Eumomota_superciliosa_apiaster%29_Copan_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Turquoise-browed motmot",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Turquoise-browed_motmot_%28Eumomota_superciliosa_apiaster%29_Copan_2.jpg/330px-Turquoise-browed_motmot_%28Eumomota_superciliosa_apiaster%29_Copan_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "pupusa",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Pupusas_El_Salvador_Centro_America.JPG/330px-Pupusas_El_Salvador_Centro_America.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "GNQ": {
+    "dish": {
+      "name": "Succotash",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Corn_%26_Beans_%2815392776377%29.jpg/330px-Corn_%26_Beans_%2815392776377%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "ERI": {
+    "animal": {
+      "name": "Arabian camel",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Camelus_dromedarius_in_Nuweiba.jpg/330px-Camelus_dromedarius_in_Nuweiba.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "White-cheeked turaco",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Tauraco_leucotis.jpg/330px-Tauraco_leucotis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "zigini",
+      "image": null
+    }
+  },
+  "EST": {
+    "animal": {
+      "name": "Wolf",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Eurasian_wolf_2.jpg/330px-Eurasian_wolf_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Barn swallow",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Rauchschwalbe_Hirundo_rustica.jpg/330px-Rauchschwalbe_Hirundo_rustica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "kama",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/2_Erotic_Kama_statues_of_Khajuraho_Hindu_Temple_de_Lakshmana_Khajur%C3%A2ho_India_2013.jpg/330px-2_Erotic_Kama_statues_of_Khajuraho_Hindu_Temple_de_Lakshmana_Khajur%C3%A2ho_India_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "ETH": {
+    "animal": {
+      "name": "Lion",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/330px-020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "doro wat",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Ethiopian_wat.jpg/330px-Ethiopian_wat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "FRO": {
+    "bird": {
+      "name": "Eurasian oystercatcher",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Haematopus_ostralegus_He.jpg/330px-Haematopus_ostralegus_He.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Skerpikjøt",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Skerpikj%C3%B8t_%282%29.jpg/330px-Skerpikj%C3%B8t_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "FJI": {
+    "dish": {
+      "name": "kokoda",
+      "image": null
+    }
+  },
+  "FIN": {
+    "animal": {
+      "name": "Brown bear",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/2010-kodiak-bear-1.jpg/330px-2010-kodiak-bear-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Whooper swan",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cygnus_cygnus_Singschwan.jpg/330px-Cygnus_cygnus_Singschwan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "rye bread",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Market_Bread%2C_Riga%2C_Latvia.jpg/330px-Market_Bread%2C_Riga%2C_Latvia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "FRA": {
+    "animal": {
+      "name": "Gallic rooster",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/M%C3%A9morial_des_soldats_et_marins_de_la_Charente-Inf%C3%A9rieure_%2816%29.JPG/330px-M%C3%A9morial_des_soldats_et_marins_de_la_Charente-Inf%C3%A9rieure_%2816%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Gallic rooster",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/M%C3%A9morial_des_soldats_et_marins_de_la_Charente-Inf%C3%A9rieure_%2816%29.JPG/330px-M%C3%A9morial_des_soldats_et_marins_de_la_Charente-Inf%C3%A9rieure_%2816%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Pot-au-feu",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Pot-au-feu_SAM_2724.JPG/330px-Pot-au-feu_SAM_2724.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "GAB": {
+    "animal": {
+      "name": "Black panther",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Black_Panther_-_India.jpg/330px-Black_Panther_-_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "poulet nyembwe",
+      "image": null
+    }
+  },
+  "GMB": {
+    "animal": {
+      "name": "Spotted hyena",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Spotted_hyena_%28Crocuta_crocuta%29.jpg/330px-Spotted_hyena_%28Crocuta_crocuta%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "GEO": {
+    "bird": {
+      "name": "Common kestrel",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Common_kestrel_falco_tinnunculus.jpg/330px-Common_kestrel_falco_tinnunculus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "DEU": {
+    "animal": {
+      "name": "Federal eagle",
+      "image": null
+    },
+    "bird": {
+      "name": "White stork",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/White_stork_%28Ciconia_ciconia%29_Bia%C5%82owieza.jpg/330px-White_stork_%28Ciconia_ciconia%29_Bia%C5%82owieza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Sauerbraten",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Heldrunger_Sauerbraten_2.JPG/330px-Heldrunger_Sauerbraten_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "GHA": {
+    "dish": {
+      "name": "fufu",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Wrapped_fufu.jpg/330px-Wrapped_fufu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "GIB": {
+    "bird": {
+      "name": "Barbary partridge",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Alectoris_barbara_Tenerife.jpg/330px-Alectoris_barbara_Tenerife.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "GRC": {
+    "animal": {
+      "name": "Phoenix",
+      "image": null
+    },
+    "dish": {
+      "name": "horiatiki",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Greece_Food_Horiatiki.JPG/330px-Greece_Food_Horiatiki.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "GRL": {
+    "dish": {
+      "name": "suaasat",
+      "image": null
+    }
+  },
+  "GRD": {
+    "bird": {
+      "name": "Grenada dove",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Ece310767-fig-0001-m.jpg/330px-Ece310767-fig-0001-m.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "oil down",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Cooking_oil_down_03.jpg/330px-Cooking_oil_down_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "GUM": {
+    "dish": {
+      "name": "Kelaguen",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Kelaguen_1534_%2814529937155%29.jpg/330px-Kelaguen_1534_%2814529937155%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "GTM": {
+    "bird": {
+      "name": "Resplendent quetzal",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Resplendent_quetzal_san_gerardo_de_dota_3.31.24_DSC_3989-topaz-denoiseraw.jpg/330px-Resplendent_quetzal_san_gerardo_de_dota_3.31.24_DSC_3989-topaz-denoiseraw.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "pepián",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Cocinando_El_Pepian.jpg/330px-Cocinando_El_Pepian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "GIN": {
+    "dish": {
+      "name": "poulet yassa",
+      "image": null
+    }
+  },
+  "GNB": {
+    "dish": {
+      "name": "caldo de mancarra",
+      "image": null
+    }
+  },
+  "GUY": {
+    "animal": {
+      "name": "Jaguar",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Standing_jaguar.jpg/330px-Standing_jaguar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Hoatzin",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Hoatzin_%28Opisthocomus_hoazin%29_Rio_Napo.jpg/330px-Hoatzin_%28Opisthocomus_hoazin%29_Rio_Napo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "pepperpot",
+      "image": null
+    }
+  },
+  "HTI": {
+    "animal": {
+      "name": "Hispaniolan trogon",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Hispaniolan_Trogon_%28Priotelus_roseigaster%29_%288082799519%29.jpg/330px-Hispaniolan_Trogon_%28Priotelus_roseigaster%29_%288082799519%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Hispaniolan trogon",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Hispaniolan_Trogon_%28Priotelus_roseigaster%29_%288082799519%29.jpg/330px-Hispaniolan_Trogon_%28Priotelus_roseigaster%29_%288082799519%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "griot",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/GriotF%C3%AAte.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    }
+  },
+  "HND": {
+    "bird": {
+      "name": "Scarlet macaw",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Scarlet_macaw_%28Ara_macao_cyanopterus%29_Copan.jpg/330px-Scarlet_macaw_%28Ara_macao_cyanopterus%29_Copan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "baleada",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Baleada.jpg/330px-Baleada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "HUN": {
+    "animal": {
+      "name": "Turul",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Turul_buda_castle1.jpg/330px-Turul_buda_castle1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Saker falcon",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Falco_cherrug_%28Marek_Szczepanek%29.jpg/330px-Falco_cherrug_%28Marek_Szczepanek%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "goulash",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Gulyas080.jpg/330px-Gulyas080.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "HKG": {
+    "dish": {
+      "name": "pineapple bun",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Pineapple_buns.jpg/330px-Pineapple_buns.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "ISL": {
+    "bird": {
+      "name": "Gyrfalcon",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Falco_rusticolus_white_cropped.jpg/330px-Falco_rusticolus_white_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "lamb",
+      "image": null
+    }
+  },
+  "IND": {
+    "animal": {
+      "name": "Bengal tiger",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg/330px-Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Indian peacock",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Peacock_on_tree_%2852077240794%29.jpg/330px-Peacock_on_tree_%2852077240794%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Khichdi",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Dall_Khichdi.jpg/330px-Dall_Khichdi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "IDN": {
+    "bird": {
+      "name": "Javan hawk-eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/ELANG_JAWA.jpg/330px-ELANG_JAWA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "nasi goreng",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Nasi_Goreng_Kampung_%2811967588375%29.jpg/330px-Nasi_Goreng_Kampung_%2811967588375%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "CIV": {
+    "dish": {
+      "name": "atcheke",
+      "image": null
+    }
+  },
+  "IRN": {
+    "animal": {
+      "name": "Panthera leo persica",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Lions.Gir5_%28cropped%29.jpg/330px-Lions.Gir5_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "IRQ": {
+    "dish": {
+      "name": "masgouf",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Masgouf.jpg/330px-Masgouf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "IRL": {
+    "bird": {
+      "name": "Northern lapwing",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Northern-Lapwing-Vanellus-vanellus.jpg/330px-Northern-Lapwing-Vanellus-vanellus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "soda bread",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Ben_W_Bell_Soda_Bread_Farl_05_June_2007.jpg/330px-Ben_W_Bell_Soda_Bread_Farl_05_June_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "ISR": {
+    "animal": {
+      "name": "Lion of Judah",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/%D7%A9%D7%90%D7%92%D7%AA_%D7%94%D7%90%D7%A8%D7%99%D7%94.jpg/330px-%D7%A9%D7%90%D7%92%D7%AA_%D7%94%D7%90%D7%A8%D7%99%D7%94.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Eurasian hoopoe",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Israel._Eurasian_Hoopoe_%286497645007%29.jpg/330px-Israel._Eurasian_Hoopoe_%286497645007%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "falafel",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Falafels_2.jpg/330px-Falafels_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "ITA": {
+    "animal": {
+      "name": "Italian wolf",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/C._l._italicus_in_MNP.jpg/330px-C._l._italicus_in_MNP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Italian sparrow",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Sparrow_on_blue_chair_%28cropped%29.jpg/330px-Sparrow_on_blue_chair_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Pizza",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Pizza-3007395.jpg/330px-Pizza-3007395.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "JAM": {
+    "animal": {
+      "name": "Red-billed streamertail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Red-billed_streamertail_%28Trochilus_polytmus%29_adult_male_2.jpg/330px-Red-billed_streamertail_%28Trochilus_polytmus%29_adult_male_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "red-billed streamertail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Red-billed_streamertail_%28Trochilus_polytmus%29_adult_male_2.jpg/330px-Red-billed_streamertail_%28Trochilus_polytmus%29_adult_male_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Ackee and saltfish",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Ackee_and_Saltfish.jpg/330px-Ackee_and_Saltfish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "JPN": {
+    "animal": {
+      "name": "Green pheasant",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Phasianus_versicolor_in_Japan.JPG/330px-Phasianus_versicolor_in_Japan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Green pheasant",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Phasianus_versicolor_in_Japan.JPG/330px-Phasianus_versicolor_in_Japan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "sushi",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Sushi_platter.jpg/330px-Sushi_platter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "JOR": {
+    "bird": {
+      "name": "Sinai rosefinch",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Carpodacus_synoicus_-Jordan_-pair-8.jpg/330px-Carpodacus_synoicus_-Jordan_-pair-8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "mansaf",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Mansaf%2C_the_traditional_dish_of_Jordan.jpg/330px-Mansaf%2C_the_traditional_dish_of_Jordan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "KAZ": {
+    "bird": {
+      "name": "Steppe eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Steppe_Eagle_Portrait.jpg/330px-Steppe_Eagle_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "beshbarmak",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/%D0%91%D0%B5%D1%88%D0%B1%D0%B0%D1%80%D0%BC%D0%B0%D0%BA_%D0%B8%D0%B7_%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B_01.jpg/330px-%D0%91%D0%B5%D1%88%D0%B1%D0%B0%D1%80%D0%BC%D0%B0%D0%BA_%D0%B8%D0%B7_%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "KEN": {
+    "animal": {
+      "name": "Lion",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/330px-020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Lilac-breasted roller",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/143_Lilac-breasted_roller_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/330px-143_Lilac-breasted_roller_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "ugali",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Ugali_%26_Sukuma_Wiki.jpg/330px-Ugali_%26_Sukuma_Wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "KIR": {
+    "dish": {
+      "name": "Palusami",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Luaulau.png/330px-Luaulau.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "KWT": {
+    "dish": {
+      "name": "Machboos Laham",
+      "image": null
+    }
+  },
+  "KGZ": {
+    "dish": {
+      "name": "beshbarmak",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/%D0%91%D0%B5%D1%88%D0%B1%D0%B0%D1%80%D0%BC%D0%B0%D0%BA_%D0%B8%D0%B7_%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B_01.jpg/330px-%D0%91%D0%B5%D1%88%D0%B1%D0%B0%D1%80%D0%BC%D0%B0%D0%BA_%D0%B8%D0%B7_%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D1%8B_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "LAO": {
+    "animal": {
+      "name": "Asian elephant",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Elephas_maximus_%28Bandipur%29.jpg/330px-Elephas_maximus_%28Bandipur%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "LVA": {
+    "bird": {
+      "name": "White wagtail",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg/330px-20180415_015_Winterswijk_Witte_kwikstaart_%2840785272624%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "layered rye bread",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Rupjmaizes_k%C4%81rtojums.jpg/330px-Rupjmaizes_k%C4%81rtojums.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "LBN": {
+    "animal": {
+      "name": "Striped hyena",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Striped_hyena_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07_%28cropped%29.jpg/330px-Striped_hyena_in_Bhigwan_August_2025_by_Tisha_Mukherjee_07_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "kibbeh",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Kibbeh3.jpg/330px-Kibbeh3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "LSO": {
+    "dish": {
+      "name": "Pap-pap",
+      "image": null
+    }
+  },
+  "LBR": {
+    "bird": {
+      "name": "Common bulbul",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg/330px-Common_bulbul_%28Pycnonotus_barbatus_barbatus%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "dumboy",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Beachside_Barbeque_%286831739276%29.jpg/330px-Beachside_Barbeque_%286831739276%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "LBY": {
+    "dish": {
+      "name": "Couscous",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Moroccan_cuscus%2C_from_Casablanca%2C_September_2018.jpg/330px-Moroccan_cuscus%2C_from_Casablanca%2C_September_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "LIE": {
+    "dish": {
+      "name": "käsknöpfle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Berggasthof_Haldenhof_-_K%C3%A4skn%C3%B6pfle_%281%29.jpg/330px-Berggasthof_Haldenhof_-_K%C3%A4skn%C3%B6pfle_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "LTU": {
+    "animal": {
+      "name": "White stork",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/White_stork_%28Ciconia_ciconia%29_Bia%C5%82owieza.jpg/330px-White_stork_%28Ciconia_ciconia%29_Bia%C5%82owieza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "White stork",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/White_stork_%28Ciconia_ciconia%29_Bia%C5%82owieza.jpg/330px-White_stork_%28Ciconia_ciconia%29_Bia%C5%82owieza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "bigos",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Bigos_%281%29.jpg/330px-Bigos_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "LUX": {
+    "bird": {
+      "name": "Goldcrest",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Goldcrest_1.jpg/330px-Goldcrest_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Judd mat Gaardebounen",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/JuddMatGaardebounen_Beer.JPG/330px-JuddMatGaardebounen_Beer.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "MKD": {
+    "dish": {
+      "name": "tavče gravče",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/%D0%93%D1%80%D0%B0%D0%B2_%D0%B2%D0%BE_%D1%82%D0%B0%D0%B2%D0%B0%28%D1%82%D0%B0%D1%84%D1%87%D0%B5_%D0%B3%D1%80%D0%B0%D0%B2%D1%87%D0%B5%29_%283%29.jpg/330px-%D0%93%D1%80%D0%B0%D0%B2_%D0%B2%D0%BE_%D1%82%D0%B0%D0%B2%D0%B0%28%D1%82%D0%B0%D1%84%D1%87%D0%B5_%D0%B3%D1%80%D0%B0%D0%B2%D1%87%D0%B5%29_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "MDG": {
+    "animal": {
+      "name": "Zebu",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/A_well-fed_bull_in_Kuno_WS_AJTJ_P1070807.jpg/330px-A_well-fed_bull_in_Kuno_WS_AJTJ_P1070807.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "romazava",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Madagaskar_stew_2019-10-01.jpg/330px-Madagaskar_stew_2019-10-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "MWI": {
+    "bird": {
+      "name": "African fish eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/African_fish_eagle%2C_Haliaeetus_vocifer%2C_at_Chobe_National_Park%2C_Botswana_%2833516612831%29.jpg/330px-African_fish_eagle%2C_Haliaeetus_vocifer%2C_at_Chobe_National_Park%2C_Botswana_%2833516612831%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "MYS": {
+    "animal": {
+      "name": "Malayan tiger",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/MalayanTiger.jpg/330px-MalayanTiger.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Rhinoceros hornbill",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Buceros_rhinoceros_-Singapore_Zoo_-pair-8a.jpg/330px-Buceros_rhinoceros_-Singapore_Zoo_-pair-8a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "nasi lemak",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Nasi_Lemak_dengan_Chili_Nasi_Lemak_dan_Sotong_Pedas%2C_di_Penang_Summer_Restaurant.jpg/330px-Nasi_Lemak_dengan_Chili_Nasi_Lemak_dan_Sotong_Pedas%2C_di_Penang_Summer_Restaurant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "MDV": {
+    "dish": {
+      "name": "mas huni",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Mas_huni-roshi087.JPG/330px-Mas_huni-roshi087.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "MLI": {
+    "dish": {
+      "name": "tiguadege na",
+      "image": null
+    }
+  },
+  "MLT": {
+    "bird": {
+      "name": "Blue rock thrush",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Monticola_solitarius%2C_Spain_1.jpg/330px-Monticola_solitarius%2C_Spain_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "stuffat tal-fenek",
+      "image": null
+    }
+  },
+  "MHL": {
+    "dish": {
+      "name": "Barramundi cod",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Panther.grouper.arp.jpg/330px-Panther.grouper.arp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "MUS": {
+    "animal": {
+      "name": "Dodo",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Oxford_Dodo_display.jpg/330px-Oxford_Dodo_display.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "dholl",
+      "image": null
+    }
+  },
+  "MEX": {
+    "animal": {
+      "name": "Golden eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg/330px-015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Crested caracara",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Schopfkarakara.jpg/330px-Schopfkarakara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Mole poblano",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/ChickRedMole.JPG/330px-ChickRedMole.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "MDA": {
+    "animal": {
+      "name": "Aurochs",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Copenhagen_Aurochse.jpg/330px-Copenhagen_Aurochse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "MCO": {
+    "dish": {
+      "name": "barbagiuan",
+      "image": null
+    }
+  },
+  "MNG": {
+    "bird": {
+      "name": "Saker falcon",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Falco_cherrug_%28Marek_Szczepanek%29.jpg/330px-Falco_cherrug_%28Marek_Szczepanek%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "buuz",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Buuz.jpg/330px-Buuz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "MNE": {
+    "dish": {
+      "name": "njeguški pršut",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Njegu%C5%A1ki_pr%C5%A1ut.jpg/330px-Njegu%C5%A1ki_pr%C5%A1ut.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "MSR": {
+    "bird": {
+      "name": "Montserrat oriole",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Icterus_oberi.jpg/330px-Icterus_oberi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "MAR": {
+    "animal": {
+      "name": "Barbary lion",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Barbary_lion.jpg/330px-Barbary_lion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Moussier's redstart",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Moussier%27s_redstart_%28Phoenicurus_moussieri%29_male.jpg/330px-Moussier%27s_redstart_%28Phoenicurus_moussieri%29_male.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "couscous",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Moroccan_cuscus%2C_from_Casablanca%2C_September_2018.jpg/330px-Moroccan_cuscus%2C_from_Casablanca%2C_September_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "MMR": {
+    "bird": {
+      "name": "Grey peacock-pheasant",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Polyplectron_bicalcaratum_-Birmingham_Nature_Centre%2C_England-8a.jpg/330px-Polyplectron_bicalcaratum_-Birmingham_Nature_Centre%2C_England-8a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "mohinga",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Mohnga.jpg/330px-Mohnga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "NAM": {
+    "bird": {
+      "name": "African fish eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/African_fish_eagle%2C_Haliaeetus_vocifer%2C_at_Chobe_National_Park%2C_Botswana_%2833516612831%29.jpg/330px-African_fish_eagle%2C_Haliaeetus_vocifer%2C_at_Chobe_National_Park%2C_Botswana_%2833516612831%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "NRU": {
+    "dish": {
+      "name": "coconut fish",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Poisson_cru_au_lait_de_coco.jpg/330px-Poisson_cru_au_lait_de_coco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "NPL": {
+    "bird": {
+      "name": "Himalayan monal",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Himalayan_Monal_at_Sagarmatha_National_Park%2C_Nepal.jpg/330px-Himalayan_Monal_at_Sagarmatha_National_Park%2C_Nepal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Gundruk",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Gundruk_NP.jpg/330px-Gundruk_NP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "NLD": {
+    "bird": {
+      "name": "Black-tailed godwit",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Black-tailed_Godwit_Uferschnepfe.jpg/330px-Black-tailed_Godwit_Uferschnepfe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "stamppot",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Boerenkool_stamppot.jpg/330px-Boerenkool_stamppot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "NZL": {
+    "animal": {
+      "name": "Kiwi",
+      "image": null
+    },
+    "bird": {
+      "name": "North Island brown kiwi",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/TeTuatahianui.jpg/330px-TeTuatahianui.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "meat pie",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/MeatPie.JPG/330px-MeatPie.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "NIC": {
+    "animal": {
+      "name": "Turquoise-browed motmot",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Turquoise-browed_motmot_%28Eumomota_superciliosa_apiaster%29_Copan_2.jpg/330px-Turquoise-browed_motmot_%28Eumomota_superciliosa_apiaster%29_Copan_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Turquoise-browed motmot",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Turquoise-browed_motmot_%28Eumomota_superciliosa_apiaster%29_Copan_2.jpg/330px-Turquoise-browed_motmot_%28Eumomota_superciliosa_apiaster%29_Copan_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "gallo pinto",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Gallo_Pinto.jpg/330px-Gallo_Pinto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "NER": {
+    "dish": {
+      "name": "dambou",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Dambu.jpg/330px-Dambu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "NGA": {
+    "bird": {
+      "name": "Black crowned crane",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Black_Crowned_Crane_1194px.jpg/330px-Black_Crowned_Crane_1194px.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "tuwon shinkafa",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Tuwo_Shinkafa_with_garden_egg_Soup.jpg/330px-Tuwo_Shinkafa_with_garden_egg_Soup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "PRK": {
+    "animal": {
+      "name": "Qianlima",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Chollima_statue_05.JPG/330px-Chollima_statue_05.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "NOR": {
+    "animal": {
+      "name": "Eurasian elk/moose",
+      "image": null
+    },
+    "bird": {
+      "name": "White-throated dipper",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Cinclus_cinclus_-Kirkcudbright%2C_Scotland-8.jpg/330px-Cinclus_cinclus_-Kirkcudbright%2C_Scotland-8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "fårikål",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/F%C3%A5r_i_k%C3%A5l.jpg/330px-F%C3%A5r_i_k%C3%A5l.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "OMN": {
+    "dish": {
+      "name": "shuwa",
+      "image": null
+    }
+  },
+  "PAK": {
+    "animal": {
+      "name": "Markhor",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Markhor_Schraubenziege_Capra_falconeri_Zoo_Augsburg-02.jpg/330px-Markhor_Schraubenziege_Capra_falconeri_Zoo_Augsburg-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Chukar partridge",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Chukarhuhn_Weltvogelpark_Walsrode_2010.jpg/330px-Chukarhuhn_Weltvogelpark_Walsrode_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Biryani",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/%22Hyderabadi_Dum_Biryani%22.jpg/330px-%22Hyderabadi_Dum_Biryani%22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "PLW": {
+    "bird": {
+      "name": "Palau fruit dove",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Palau_fruit_dove_%28Ptilinopus_pelewensis%29_Rock_Islands.jpg/330px-Palau_fruit_dove_%28Ptilinopus_pelewensis%29_Rock_Islands.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "PAN": {
+    "animal": {
+      "name": "Harpy eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Harpia_harpyja_001_800.jpg/330px-Harpia_harpyja_001_800.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Harpy eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Harpia_harpyja_001_800.jpg/330px-Harpia_harpyja_001_800.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "sancocho",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Sancocho_de_espinazo_de_cerdo.jpg/330px-Sancocho_de_espinazo_de_cerdo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "PNG": {
+    "animal": {
+      "name": "Dugong",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Dugong.JPG/330px-Dugong.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Raggiana bird-of-paradise",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Raggiana_Bird-of-paradise_0A2A5379.jpg/330px-Raggiana_Bird-of-paradise_0A2A5379.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "PRY": {
+    "bird": {
+      "name": "Bare-throated bellbird",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Procnias_nudicollis.jpg/330px-Procnias_nudicollis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Sopa paraguaya",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Sopa_Paraguaya_2.jpg/330px-Sopa_Paraguaya_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "PER": {
+    "animal": {
+      "name": "Vicuña",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Vicuna_%2889163948%29_%28cropped%29.jpg/330px-Vicuna_%2889163948%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Andean cock-of-the-rock",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Andean_cock-of-the-rock_%28Rupicola_peruvianus_sanguinolentus%29_male_Antioquia.jpg/330px-Andean_cock-of-the-rock_%28Rupicola_peruvianus_sanguinolentus%29_male_Antioquia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "ceviche",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Cebiche_de_corvina.JPG/330px-Cebiche_de_corvina.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "PHL": {
+    "bird": {
+      "name": "Philippine eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Pamarayeg_IIIx2_%28cropped%29.jpg/330px-Pamarayeg_IIIx2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "adobo",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Lomo_en_adobo-2009.jpg/330px-Lomo_en_adobo-2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "POL": {
+    "animal": {
+      "name": "White-tailed eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/NZ7_5265_%2852812350718%29.jpg/330px-NZ7_5265_%2852812350718%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "White-tailed eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/NZ7_5265_%2852812350718%29.jpg/330px-NZ7_5265_%2852812350718%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "bigos",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Bigos_%281%29.jpg/330px-Bigos_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "PRT": {
+    "animal": {
+      "name": "Dragon",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/St_Catherine%2C_St_George_and_the_Dragon_%28M%C3%A4staren_fr%C3%A5n_Kappenberg%29_-_Nationalmuseum_-_18337_%28brightened%29%2C_draken.png/330px-St_Catherine%2C_St_George_and_the_Dragon_%28M%C3%A4staren_fr%C3%A5n_Kappenberg%29_-_Nationalmuseum_-_18337_%28brightened%29%2C_draken.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "bacalhau",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Klippfisk.jpg/330px-Klippfisk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "PRI": {
+    "bird": {
+      "name": "Puerto Rican spindalis",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Puerto_Rican_Stripe-headed_Tanager_%28male%29_%285403225223%29.jpg/330px-Puerto_Rican_Stripe-headed_Tanager_%28male%29_%285403225223%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "lechon",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Cochinillos-Mercado_de_la_Cebada.jpg/330px-Cochinillos-Mercado_de_la_Cebada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "QAT": {
+    "animal": {
+      "name": "Arabian oryx",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Arabian_oryx_%28oryx_leucoryx%29.jpg/330px-Arabian_oryx_%28oryx_leucoryx%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "machboos",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Machboos_%28cropped%29.JPG/330px-Machboos_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "ROU": {
+    "animal": {
+      "name": "Eurasian Lynx",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Lynx_Nationalpark_Bayerischer_Wald_01.jpg/330px-Lynx_Nationalpark_Bayerischer_Wald_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Golden eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg/330px-015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "mămăligă",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mamaliga.jpg/330px-Mamaliga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "RUS": {
+    "animal": {
+      "name": "Eurasian brown bear",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Eurasian_brown_bear_%28Ursus_arctos_arctos%29_female_1.jpg/330px-Eurasian_brown_bear_%28Ursus_arctos_arctos%29_female_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Tundra swan",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Cygnus_bewickii_01.jpg/330px-Cygnus_bewickii_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Pelmeni",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Pelmeni_Russian.jpg/330px-Pelmeni_Russian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "RWA": {
+    "animal": {
+      "name": "Leopard",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/African_leopard_male_%28cropped%29.jpg/330px-African_leopard_male_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Grey crowned crane",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Grey_crowned_crane_%28Balearica_regulorum_gibbericeps%29.jpg/330px-Grey_crowned_crane_%28Balearica_regulorum_gibbericeps%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "isombe",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/ISOMBE.jpg/330px-ISOMBE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "KNA": {
+    "bird": {
+      "name": "Brown pelican",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Brown_pelican_in_flight_%28Bodega_Bay%29.jpg/330px-Brown_pelican_in_flight_%28Bodega_Bay%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "LCA": {
+    "animal": {
+      "name": "Saint Lucia amazon",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Amazona_versicolor_-St_Lucia-5a.jpg/330px-Amazona_versicolor_-St_Lucia-5a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Saint Lucia amazon",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Amazona_versicolor_-St_Lucia-5a.jpg/330px-Amazona_versicolor_-St_Lucia-5a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "VCT": {
+    "animal": {
+      "name": "Saint Vincent amazon",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Amazona_guildingii_-Botanical_Gardens_-Kingstown_-Saint_Vincent-8a-4c.jpg/330px-Amazona_guildingii_-Botanical_Gardens_-Kingstown_-Saint_Vincent-8a-4c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "St Vincent parrot",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Amazona_guildingii_-Botanical_Gardens_-Kingstown_-Saint_Vincent-8a-4c.jpg/330px-Amazona_guildingii_-Botanical_Gardens_-Kingstown_-Saint_Vincent-8a-4c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "WSM": {
+    "bird": {
+      "name": "Tooth-billed pigeon",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Naturalis_Biodiversity_Center_-_ZMA.AVES.56900_-_Didunculus_strigirostris_Jardine%2C_1845_-_Columbidae_-_skin_specimen.jpeg/330px-Naturalis_Biodiversity_Center_-_ZMA.AVES.56900_-_Didunculus_strigirostris_Jardine%2C_1845_-_Columbidae_-_skin_specimen.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "SMR": {
+    "dish": {
+      "name": "torta tre monti",
+      "image": null
+    }
+  },
+  "SAU": {
+    "dish": {
+      "name": "saleeg",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/The_Hijazi_Saleeg.jpg/330px-The_Hijazi_Saleeg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "SEN": {
+    "dish": {
+      "name": "thieboudienne",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Thieboudienne.JPG/330px-Thieboudienne.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "SRB": {
+    "animal": {
+      "name": "Wolf",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Eurasian_wolf_2.jpg/330px-Eurasian_wolf_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Eastern imperial eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Eastern_Imperial_Eagle_cr.jpg/330px-Eastern_Imperial_Eagle_cr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "ćevapčići",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Cevapi_s_kajmakom.jpg/330px-Cevapi_s_kajmakom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "SYC": {
+    "bird": {
+      "name": "Seychelles black parrot",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Black_parrot_Seychelles.jpg/330px-Black_parrot_Seychelles.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "SGP": {
+    "animal": {
+      "name": "Lion",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/330px-020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Crimson sunbird",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/0A2A6965_Crimson_Sunbird.jpg/330px-0A2A6965_Crimson_Sunbird.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "chilli crab",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Chilli_crab-02.jpg/330px-Chilli_crab-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "SVK": {
+    "dish": {
+      "name": "pirohy",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Pierogi_z_mas%C5%82em_-_2023.03.31.jpg/330px-Pierogi_z_mas%C5%82em_-_2023.03.31.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "SVN": {
+    "dish": {
+      "name": "cremeschnitte",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Kremna_rezina.jpg/330px-Kremna_rezina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "SOM": {
+    "animal": {
+      "name": "Leopard",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/African_leopard_male_%28cropped%29.jpg/330px-African_leopard_male_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "bariis Iskukaris",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Somalicamelmeat.jpg/330px-Somalicamelmeat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "ZAF": {
+    "animal": {
+      "name": "Springbok",
+      "image": null
+    },
+    "bird": {
+      "name": "Blue crane",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Grus_paradisea_Etosha_1.jpg/330px-Grus_paradisea_Etosha_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Bobotie",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Bobotie%2C_South_African_dish.jpg/330px-Bobotie%2C_South_African_dish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "KOR": {
+    "animal": {
+      "name": "Siberian tiger",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/P.t.altaica_Tomak_Male.jpg/330px-P.t.altaica_Tomak_Male.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Korean magpie",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Korean_magpie_in_Daejeon_%28side_profile%29.jpg/330px-Korean_magpie_in_Daejeon_%28side_profile%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Kimchi",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Various_kimchi.jpg/330px-Various_kimchi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "ESP": {
+    "animal": {
+      "name": "Bull",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/A_Friesian_Bull%2C_Llandeilo_Graban_-_geograph.org.uk_-_579885.jpg/330px-A_Friesian_Bull%2C_Llandeilo_Graban_-_geograph.org.uk_-_579885.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Spanish imperial eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Aguila_Imperial_Entrando_Al_Posadero_%28125891767%29.jpeg/330px-Aguila_Imperial_Entrando_Al_Posadero_%28125891767%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Paella",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/01_Paella_Valenciana_original.jpg/330px-01_Paella_Valenciana_original.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "LKA": {
+    "bird": {
+      "name": "Sri Lanka junglefowl",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Flickr_-_Rainbirder_-_Ceylon_Junglefowl_%28Gallus_lafayetii%29_Male.jpg/330px-Flickr_-_Rainbirder_-_Ceylon_Junglefowl_%28Gallus_lafayetii%29_Male.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "rice and curry",
+      "image": null
+    }
+  },
+  "SUR": {
+    "dish": {
+      "name": "pom",
+      "image": null
+    }
+  },
+  "SWE": {
+    "animal": {
+      "name": "Eurasian elk/moose",
+      "image": null
+    },
+    "bird": {
+      "name": "Common blackbird",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Common_Blackbird.jpg/330px-Common_Blackbird.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "köttbullar",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Soup_with_meatballs-01.jpg/330px-Soup_with_meatballs-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "CHE": {
+    "dish": {
+      "name": "fondue",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Fondue_dish.jpg/330px-Fondue_dish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "TWN": {
+    "animal": {
+      "name": "Formosan black bear",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Formosan_Black_Bear.JPG/330px-Formosan_Black_Bear.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Taiwan blue magpie",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Taiwan_blue_magpie_%28Urocissa_caerulea%29_Xindian.jpg/330px-Taiwan_blue_magpie_%28Urocissa_caerulea%29_Xindian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "beef noodle soup",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Lanzhou_La_Mian.jpg/330px-Lanzhou_La_Mian.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "TJK": {
+    "bird": {
+      "name": "Golden eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg/330px-015_Wild_Golden_Eagle_in_flight_at_Pfyn-Finges_%28Switzerland%29_Photo_by_Giles_Laurent.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "osh palov",
+      "image": null
+    }
+  },
+  "THA": {
+    "bird": {
+      "name": "Siamese fireback",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Siamese-fireback-Lophura-diardi-khao-yai-national-park.jpg/330px-Siamese-fireback-Lophura-diardi-khao-yai-national-park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "pad thai",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Phat_Thai_kung_Chang_Khien_street_stall.jpg/330px-Phat_Thai_kung_Chang_Khien_street_stall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "TGO": {
+    "animal": {
+      "name": "Lion",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/330px-020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "fufu",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Wrapped_fufu.jpg/330px-Wrapped_fufu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "TON": {
+    "dish": {
+      "name": "'ota 'ika",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Poisson_cru_au_lait_de_coco.jpg/330px-Poisson_cru_au_lait_de_coco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "TTO": {
+    "bird": {
+      "name": "Scarlet ibis",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Oceanografic_Scarlet_Ibis_02.jpg/330px-Oceanografic_Scarlet_Ibis_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "doubles",
+      "image": null
+    }
+  },
+  "TUN": {
+    "dish": {
+      "name": "couscous",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Moroccan_cuscus%2C_from_Casablanca%2C_September_2018.jpg/330px-Moroccan_cuscus%2C_from_Casablanca%2C_September_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "TUR": {
+    "animal": {
+      "name": "Grey wolf",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Eurasian_wolf_2.jpg/330px-Eurasian_wolf_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Redwing",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Redwing_Turdus_iliacus.jpg/330px-Redwing_Turdus_iliacus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Kebab",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Lula_kebab_2.jpg/330px-Lula_kebab_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "TKM": {
+    "bird": {
+      "name": "Black francolin",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Black_Francolin_in_Tal_Chhapar_Sanctuary_November_2025_by_Tisha_Mukherjee_01.jpg/330px-Black_Francolin_in_Tal_Chhapar_Sanctuary_November_2025_by_Tisha_Mukherjee_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "TUV": {
+    "dish": {
+      "name": "pulaka",
+      "image": null
+    }
+  },
+  "UGA": {
+    "animal": {
+      "name": "Grey crowned crane",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Grey_crowned_crane_%28Balearica_regulorum_gibbericeps%29.jpg/330px-Grey_crowned_crane_%28Balearica_regulorum_gibbericeps%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "East African crowned crane",
+      "image": null
+    },
+    "dish": {
+      "name": "matooke",
+      "image": null
+    }
+  },
+  "UKR": {
+    "bird": {
+      "name": "White stork",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/White_stork_%28Ciconia_ciconia%29_Bia%C5%82owieza.jpg/330px-White_stork_%28Ciconia_ciconia%29_Bia%C5%82owieza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "borscht",
+      "image": null
+    }
+  },
+  "ARE": {
+    "bird": {
+      "name": "Saker falcon",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Falco_cherrug_%28Marek_Szczepanek%29.jpg/330px-Falco_cherrug_%28Marek_Szczepanek%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "harees",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Armenian_Harisa.JPG/330px-Armenian_Harisa.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "GBR": {
+    "animal": {
+      "name": "Lion",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/330px-020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "European robin",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Erithacus_rubecula_with_cocked_head.jpg/330px-Erithacus_rubecula_with_cocked_head.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Fish and chips",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Fish_and_chips_blackpool.jpg/330px-Fish_and_chips_blackpool.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "USA": {
+    "animal": {
+      "name": "American bison",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/American_bison_k5680-1.jpg/330px-American_bison_k5680-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "bird": {
+      "name": "Bald eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg/330px-Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "Apple pie",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Apple_pie_14.jpg/330px-Apple_pie_14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  },
+  "URY": {
+    "bird": {
+      "name": "Southern lapwing",
+      "image": null
+    },
+    "dish": {
+      "name": "chivito",
+      "image": null
+    }
+  },
+  "UZB": {
+    "bird": {
+      "name": "Huma bird",
+      "image": null
+    },
+    "dish": {
+      "name": "Uzbek Plov",
+      "image": null
+    }
+  },
+  "VUT": {
+    "dish": {
+      "name": "laplap",
+      "image": null
+    }
+  },
+  "VEN": {
+    "animal": {
+      "name": "Venezuelan troupial",
+      "image": null
+    }
+  },
+  "VNM": {
+    "animal": {
+      "name": "Water buffalo",
+      "image": null
+    }
+  },
+  "YEM": {
+    "bird": {
+      "name": "Arabian grosbeak",
+      "image": null
+    },
+    "dish": {
+      "name": "saltah",
+      "image": null
+    }
+  },
+  "ZMB": {
+    "bird": {
+      "name": "African fish eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/African_fish_eagle%2C_Haliaeetus_vocifer%2C_at_Chobe_National_Park%2C_Botswana_%2833516612831%29.jpg/330px-African_fish_eagle%2C_Haliaeetus_vocifer%2C_at_Chobe_National_Park%2C_Botswana_%2833516612831%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "nshima",
+      "image": null
+    }
+  },
+  "ZWE": {
+    "bird": {
+      "name": "African fish eagle",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/African_fish_eagle%2C_Haliaeetus_vocifer%2C_at_Chobe_National_Park%2C_Botswana_%2833516612831%29.jpg/330px-African_fish_eagle%2C_Haliaeetus_vocifer%2C_at_Chobe_National_Park%2C_Botswana_%2833516612831%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    "dish": {
+      "name": "sadza",
+      "image": null
+    }
+  }
+}

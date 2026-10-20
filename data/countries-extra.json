@@ -1,0 +1,99 @@
+{
+  "CHN": {
+    "funFact": "China is wide enough for about five time zones, yet the entire country officially runs on one clock: Beijing Time (UTC+8).",
+    "avatar": {
+      "src": "/avatars/chn-man.png",
+      "label": "Practicing tai chi in the park",
+      "cols": 13,
+      "rows": 54,
+      "cellWidth": 64,
+      "cellHeight": 64,
+      "targetHeight": 144,
+      "walkRow": 10,
+      "walkStartCol": 0,
+      "creditsUrl": "/credits#chn",
+      "creditsLabel": "Credits (LPC)",
+      "sequence": [
+        {
+          "row": 2,
+          "startCol": 0,
+          "frames": 7,
+          "fps": 5,
+          "pingPong": true
+        }
+      ]
+    }
+  },
+  "JPN": {
+    "funFact": "A 2023 recount by Japan's mapping authority found 14,125 islands, more than double the 6,852 counted in 1987.",
+    "avatar": {
+      "src": "/avatars/jpn-man.png",
+      "label": "Strolling under the cherry blossoms",
+      "variant": "red",
+      "cellWidth": 29,
+      "cellHeight": 28,
+      "cols": 16,
+      "rows": 1,
+      "targetHeight": 144,
+      "prop": "petals",
+      "walkRow": 0,
+      "walkStartCol": 4,
+      "creditsUrl": "/credits#jpn",
+      "creditsLabel": "Credits (LyniaDesign)",
+      "sequence": [
+        {
+          "row": 0,
+          "startCol": 4,
+          "frames": 4,
+          "fps": 6,
+          "pingPong": false
+        }
+      ]
+    }
+  },
+  "PAK": {
+    "funFact": "Pakistan is home to five of the world's 14 mountains above 8,000 m, including K2, the second highest peak on Earth.",
+    "avatar": null
+  },
+  "USA": {
+    "funFact": "All 12 people who have walked on the Moon (1969-1972, NASA's Apollo program) were Americans.",
+    "avatar": null
+  },
+  "IND": {
+    "funFact": "India has the world's largest postal network, with 164,999 post offices as of March 2025, about 90% of them in rural areas.",
+    "avatar": null
+  },
+  "AUS": {
+    "funFact": "Australia is nearly 4,000 km wide from east to west, wider than the Moon, which is about 3,475 km across.",
+    "avatar": {
+      "src": "/avatars/australian.png",
+      "label": "Exploring the outback",
+      "cols": 13,
+      "rows": 54,
+      "cellWidth": 64,
+      "cellHeight": 64,
+      "targetHeight": 144,
+      "walkRow": 10,
+      "walkStartCol": 0,
+      "creditsUrl": "/credits#aus",
+      "creditsLabel": "Credits (LPC)",
+      "sequence": [
+        {
+          "row": 10,
+          "startCol": 1,
+          "frames": 8,
+          "fps": 7,
+          "pingPong": false
+        }
+      ]
+    }
+  },
+  "GRC": {
+    "funFact": "No point in Greece is more than about 137 km (85 miles) away from water.",
+    "avatar": null
+  },
+  "ITA": {
+    "funFact": "Italy completely surrounds two independent countries: Vatican City and San Marino.",
+    "avatar": null
+  }
+}
